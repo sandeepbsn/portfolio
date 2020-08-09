@@ -1,0 +1,38 @@
+.picflex{
+    font-size: 11px;
+    color: white;
+    font-family: 'Open Sans', sans-serif !important;
+    margin-top: 70px;
+    display: flex;
+    flex-direction: column;
+    width: 75%;
+}
+
+.circle, .square, .python, .flask{
+    background-color: #B8AAF4;
+    height: 70px;
+    width:70px;
+    text-align: center;
+}
+
+.square{
+    padding:13px;
+}
+.python{
+    padding: 6px;
+}
+
+.flask{
+    padding-top:15px;
+    padding-right: 2px;
+}
+
+@media only screen and (max-width:768px) and (min-width:375px){
+    .picflex{
+        width: 100%;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+}
+

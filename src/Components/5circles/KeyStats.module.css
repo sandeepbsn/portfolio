@@ -1,0 +1,15 @@
+.circlebox{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.circle{
+    height:100px;
+    width: 100px;
+    background-color: rgb(215, 198, 235);
+    font-weight: 600;
+}

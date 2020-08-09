@@ -1,0 +1,32 @@
+.proficiency{
+    font-family: 'Open Sans', sans-serif !important;
+    font-weight: bold !important;
+    font-size: 38px !important;
+    color: #707070 !important;
+}
+.title{
+    font-family: 'Open Sans', sans-serif !important;
+    font-weight: bold !important;
+    font-size: 22px !important;
+    color: #969696 !important;
+}
+
+.body{
+    font-family: 'Open Sans', sans-serif !important;
+    font-weight: normal !important;
+    font-size: 16px !important;
+    color: #969696 !important;
+    width:60%;
+    text-align: center;
+}
+
+.skilllogo{
+    display: flex;
+    justify-content: space-around;
+}
+
+@media only screen and (max-width:768px) and (min-width:375px){
+    .skilllogo{
+        flex-wrap: wrap;
+    }
+}

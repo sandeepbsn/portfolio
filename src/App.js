@@ -24,7 +24,7 @@ function App() {
       <div className="d-flex justify-content-around">
         <div>
           <Projects projectImage="/gradercomparison.png"
-                    projectLink="http://marksrecorder.sandeepbabu.tech"
+                    projectLink="https://grader.sandeepbabu.tech"
                     repoLink="https://github.com/sandeepbsn/grader"
                     projectTitle="Grader" 
                     projectSubTitle="Project 1"
@@ -33,18 +33,18 @@ function App() {
         </div>
 
         <div>
-          <Projects projectImage="/gyanbabameme.png"
-                    projectLink="https://github.com/sandeepbsn/gyanbaba"
-                    repoLink="https://github.com/sandeepbsn/gyanbaba"
-                    projectTitle="GyanBaba" 
+          <Projects projectImage="/revvslack.png"
+                    projectLink="https://www.revv.so/slack-integration-with-documents.html"
+                    repoLink="https://github.com/sandeepbsn"
+                    projectTitle="Slack app for Revv" 
                     projectSubTitle="Project 2"
                     projectDescription="Having a slack fatigue? GyanBaba would help you relax while using slack"
-                    skills={['Slack apps', 'Python', 'Flask', 'MySQL']}/>
+                    skills={['Slack apps', 'Python', 'AWS lambda', 'API Gateway']}/>
         </div>
 
         <div>
           <Projects projectImage="/tmscustomer.png"
-                    projectLink="https://support.sandeepbabu.tech/login"
+                    projectLink="https://support360.sandeepbabu.tech"
                     repoLink="https://github.com/sandeepbsn/ticket-management-system"
                     projectTitle="Support360" 
                     projectSubTitle="Project 3"
@@ -59,7 +59,7 @@ function App() {
       <div className="d-flex justify-content-around">
         <div>
           <Projects projectImage="/9flatslanding.png"
-                    projectLink="http://flatsclone.sandeepbabu.tech/"
+                    projectLink="https://9flats.sandeepbabu.tech"
                     repoLink="https://github.com/sandeepbsn/9flats"
                     projectTitle="9flats clone" 
                     projectSubTitle="Project 4"
@@ -76,7 +76,7 @@ function App() {
         <div className="d-flex justify-content-around">
           <div>
             <Projects projectImage="/gradercomparison.png"
-                      projectLink="http://marksrecorder.sandeepbabu.tech"
+                      projectLink="https://grader.sandeepbabu.tech"
                       repoLink="https://github.com/sandeepbsn/grader"
                       projectTitle="Grader" 
                       projectSubTitle="Project 1"
@@ -89,13 +89,13 @@ function App() {
         <CarouselItem>
         <div className="d-flex justify-content-around">
           <div>
-            <Projects projectImage="/gyanbabameme.png"
-                      projectLink="https://github.com/sandeepbsn/gyanbaba"
-                      repoLink="https://github.com/sandeepbsn/gyanbaba"
-                      projectTitle="GyanBaba" 
-                      projectSubTitle="Project 2"
-                      projectDescription="Having a slack fatigue? GyanBaba would help you relax while using slack"
-                      skills={['Slack apps', 'Python', 'Flask', 'MySQL']}/>
+          <Projects projectImage="/revvslack.png"
+                    projectLink="https://www.revv.so/slack-integration-with-documents.html"
+                    repoLink="https://github.com/sandeepbsn"
+                    projectTitle="Slack app for Revv" 
+                    projectSubTitle="Project 2"
+                    projectDescription="Having a slack fatigue? GyanBaba would help you relax while using slack"
+                    skills={['Slack apps', 'Python', 'AWS lambda', 'API Gateway']}/>
           </div>
         </div>
         </CarouselItem>
@@ -104,7 +104,7 @@ function App() {
         <div className="d-flex justify-content-around">
           <div>
             <Projects projectImage="/tmscustomer.png"
-                      projectLink="https://support.sandeepbabu.tech/login"
+                      projectLink="https://support360.sandeepbabu.tech"
                       repoLink="https://github.com/sandeepbsn/ticket-management-system"
                       projectTitle="Support360" 
                       projectSubTitle="Project 3"
@@ -118,7 +118,7 @@ function App() {
           <div className="d-flex justify-content-around">
             <div>
               <Projects projectImage="/9flatslanding.png"
-                        projectLink="http://flatsclone.sandeepbabu.tech/"
+                        projectLink="https://9flats.sandeepbabu.tech"
                         repoLink="https://github.com/sandeepbsn/9flats"
                         projectTitle="9flats clone" 
                         projectSubTitle="Project 4"

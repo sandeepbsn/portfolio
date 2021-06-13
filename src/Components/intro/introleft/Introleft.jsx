@@ -27,7 +27,7 @@ export default function Introleft(){
                 </div>
 
                 <div className={`${styles.view} mt-2 ml-4`}>
-                    <a href="https://drive.google.com/file/d/1ALXKIRUbSUKJVmPbnAe1xt_X40MZZlLb/view?usp=sharing" className={styles.view}>View full resume</a>
+                    <a href="https://drive.google.com/file/d/16W2TUFL2z2UT9_N0maGlqG6DSpr2KeV_/view?usp=sharing" className={styles.view}>View full resume</a>
                 </div>
 
                 <div className={`${styles.mtop} ${styles.location} ml-4`}>

@@ -18,7 +18,7 @@ export default function KeyStats(){
             </div>
 
             <div className={`${styles.circle} border rounded-circle p-4 mx-3 my-2`}>
-                4 <br></br><small>full stack projects</small>
+                4 <br></br><small>projects</small>
             </div>
 
             <div className={`${styles.circle} border rounded-circle p-4 mx-3 my-2`}>

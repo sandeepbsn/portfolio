@@ -24,7 +24,7 @@ function App() {
       <div className="d-flex justify-content-around">
         <div>
           <Projects projectImage="/gradercomparison.png"
-                    projectLink="https://grader.sandeepbabu.tech"
+                    projectLink="https://smart-grader.netlify.app"
                     repoLink="https://github.com/sandeepbsn/grader"
                     projectTitle="Grader" 
                     projectSubTitle="Project 1"
@@ -44,7 +44,7 @@ function App() {
 
         <div>
           <Projects projectImage="/tmscustomer.png"
-                    projectLink="https://support360.sandeepbabu.tech"
+                    projectLink="https://support360.netlify.app"
                     repoLink="https://github.com/sandeepbsn/ticket-management-system"
                     projectTitle="Support360" 
                     projectSubTitle="Project 3"
@@ -59,7 +59,7 @@ function App() {
       <div className="d-flex justify-content-around">
         <div>
           <Projects projectImage="/9flatslanding.png"
-                    projectLink="https://9flats.sandeepbabu.tech"
+                    projectLink="https://9flats.netlify.app"
                     repoLink="https://github.com/sandeepbsn/9flats"
                     projectTitle="9flats clone" 
                     projectSubTitle="Project 4"
@@ -76,7 +76,7 @@ function App() {
         <div className="d-flex justify-content-around">
           <div>
             <Projects projectImage="/gradercomparison.png"
-                      projectLink="https://grader.sandeepbabu.tech"
+                      projectLink="https://smart-grader.netlify.app"
                       repoLink="https://github.com/sandeepbsn/grader"
                       projectTitle="Grader" 
                       projectSubTitle="Project 1"
@@ -104,7 +104,7 @@ function App() {
         <div className="d-flex justify-content-around">
           <div>
             <Projects projectImage="/tmscustomer.png"
-                      projectLink="https://support360.sandeepbabu.tech"
+                      projectLink="https://support360.netlify.app"
                       repoLink="https://github.com/sandeepbsn/ticket-management-system"
                       projectTitle="Support360" 
                       projectSubTitle="Project 3"
@@ -118,7 +118,7 @@ function App() {
           <div className="d-flex justify-content-around">
             <div>
               <Projects projectImage="/9flatslanding.png"
-                        projectLink="https://9flats.sandeepbabu.tech"
+                        projectLink="https://9flats.netlify.app"
                         repoLink="https://github.com/sandeepbsn/9flats"
                         projectTitle="9flats clone" 
                         projectSubTitle="Project 4"
